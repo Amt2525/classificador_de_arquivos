@@ -1,0 +1,10 @@
+
+# Dados e imagens privadas
+imagens/
+arquivos/
+*.csv
+
+# Configurações locais
+.env
+__pycache__/
+.ipynb_checkpoints/
